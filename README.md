@@ -9,5 +9,5 @@ With this app, you will be able to see the days left until the event you have ad
 
 
 !<p align="center">
-  <img width="400" height="550" src="./img/screenDaysToTheEvent.png" />
+  <img width="400" height="500" src="./img/screenDaysToTheEvent.png" />
 </p>
